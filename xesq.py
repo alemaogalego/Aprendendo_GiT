@@ -1,4 +1,4 @@
-nombre = input('digite seu nombre: ')
-ideds = int(input('digite seu anus: '))
+nome = input('digite seu nombre: ')
+idades = int(input('digite seu anus: '))
 
-print(f'{nombre}, {ideds}')
+print(f'{nome}, {idades}')
